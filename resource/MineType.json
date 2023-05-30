@@ -1,0 +1,19 @@
+{
+    "mp4": "video/mp4",
+    "mov": "video/quicktime",
+    "flv": "video/x-flv",
+    "f4v": "video/x-f4v",
+    "webm": "video/webm",
+    "mkv": "video/x-matroska",
+    "rm": "application/vnd.rn-realmedia",
+    "rmvb": "application/vnd.rn-realmedia-vbr",
+    "m4v": "video/x-m4v",
+    "3gp": "video/3gpp",
+    "3g2": "video/3gpp2",
+    "wmv": "video/x-ms-wmv",
+    "avi": "video/x-msvideo",
+    "asf": "video/x-ms-asf",
+    "mpg": "video/mpg",
+    "mpeg": "video/mpg",
+    "ts": "video/mp2t"
+}
